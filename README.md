@@ -29,3 +29,4 @@ https://play.google.com/store/apps/details?id=com.noooo.student.breastcancer
 ##### 26. Grocery App: https://github.com/DeLaSalleUniversity-Manila/groceryapp-NOELandVoid
 ##### 27. Screen Slides Demo App: https://github.com/DeLaSalleUniversity-Manila/screenslidesdemo-NOELandVoid
 ##### 28. Get Neighboring Hospitals App: https://github.com/DeLaSalleUniversity-Manila/getneighboringhospitals-NOELandVoid
+##### 29. 2048: https://github.com/DeLaSalleUniversity-Manila/2048-NOELandVoid
