@@ -1,5 +1,5 @@
 # MyAndroidPortfolio
-### Deadline: December 8
+#### Disclaimer: All exercises are done for academic purposes only.
 ##### 1. Hello World App: https://github.com/DeLaSalleUniversity-Manila/androidhelloworldapp-NOELandVoid
 ##### 2. Weekday App: https://github.com/DeLaSalleUniversity-Manila/weekdayNOELandVoid
 ##### 3. Prime Number Game App: https://github.com/DeLaSalleUniversity-Manila/primenumbergame-NOELandVoid
